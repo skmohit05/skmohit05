@@ -1,3 +1,4 @@
+<img src="https://github.com/skmohit05/skmohit05/blob/main/banner-img.jpg" alt="Banner" />
 # 💫 About Me
 👋 Hi there, I'm Mohit Kumar Meena!<br>🚀 Turning Vision Into Reality With Code And Design<br><br>💻 Full-stack developer with 7+ years of experience in crafting innovative web applications.<br>🎨 Passionate about React, Next.js, Python, Java, NodeJS, and more — creating seamless user experiences and robust backend solutions.<br><br>✨ I thrive on bringing ideas to life, solving problems with technology, and constantly evolving in this ever-changing tech landscape.<br><br>💡 What I Do:<br>🌐 Build responsive and dynamic web apps.<br>🛠️ Transform complex problems into elegant solutions.<br>📚 Continuously learn and adapt to new challenges.<br><br>📈 Highlights:<br>🏆 7+ years of experience in full-stack development.<br>💼 Delivered 5 client projects with precision and excellence.<br>🌟 Let's connect and collaborate!
 
